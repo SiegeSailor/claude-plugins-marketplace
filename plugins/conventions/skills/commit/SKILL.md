@@ -1,5 +1,5 @@
 ---
-name: conventional-commit
+name: commit
 description: Use whenever committing, amending, squashing, or drafting a commit message in any repository.
 ---
 

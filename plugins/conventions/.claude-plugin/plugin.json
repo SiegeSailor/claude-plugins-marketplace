@@ -1,5 +1,5 @@
 {
-  "name": "conventional-commit",
+  "name": "conventions",
   "version": "1.0.0",
   "description": "Write Conventional Commits messages: one line, no body, no trailers, one concern per commit.",
   "author": {

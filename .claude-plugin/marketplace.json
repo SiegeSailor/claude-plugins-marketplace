@@ -9,8 +9,8 @@
   },
   "plugins": [
     {
-      "name": "conventional-commit",
-      "source": "./plugins/conventional-commit",
+      "name": "conventions",
+      "source": "./plugins/conventions",
       "description": "Write Conventional Commits messages: one line, no body, no trailers, one concern per commit.",
       "version": "1.0.0",
       "author": {

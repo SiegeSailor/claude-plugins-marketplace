@@ -6,7 +6,7 @@ Personal [Claude Code](https://claude.com/claude-code) plugins, published as a m
 
 ```shell
 /plugin marketplace add SiegeSailor/Claude-Plugins
-/plugin install conventional-commit@siegesailor
+/plugin install conventions@siegesailor
 /plugin install profile-sync@siegesailor
 ```
 
@@ -16,7 +16,7 @@ Adding the marketplace makes every plugin below available; installing one enable
 
 | Plugin                                                  | Provides                                                                                                                                    |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`conventional-commit`](./plugins/conventional-commit/) | One-line Conventional Commits messages, with the type-to-release table and scopes read from the host repository                             |
+| [`conventions`](./plugins/conventions/)                 | `commit`: one-line Conventional Commits messages, with the type-to-release table and scopes read from the host repository                    |
 | [`profile-sync`](./plugins/profile-sync/)               | One reviewed pass from a profile fact change to the README, the website, the resume and cover letter, LinkedIn, and an email of the results |
 
 ## Layout
