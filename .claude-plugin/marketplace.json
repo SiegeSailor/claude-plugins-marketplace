@@ -16,7 +16,7 @@
       "author": {
         "name": "Jin Yu (Ken) Zhang"
       },
-      "repository": "https://github.com/SiegeSailor/Claude-Plugins",
+      "repository": "https://github.com/SiegeSailor/claude-plugins-marketplace",
       "license": "MIT",
       "keywords": ["git", "commit", "conventional-commits", "semantic-release"],
       "category": "productivity"

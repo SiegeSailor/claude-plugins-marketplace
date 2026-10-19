@@ -1,11 +1,11 @@
-# Claude-Plugins
+# Claude Plugins Marketplace
 
 Personal [Claude Code](https://claude.com/claude-code) plugins, published as a marketplace.
 
 ## Install
 
 ```shell
-/plugin marketplace add SiegeSailor/Claude-Plugins
+/plugin marketplace add SiegeSailor/claude-plugins-marketplace
 /plugin install conventions@siegesailor
 ```
 
@@ -13,9 +13,9 @@ Adding the marketplace makes every plugin below available; installing one enable
 
 ## Plugins
 
-| Plugin                                                  | Provides                                                                                                                                    |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`conventions`](./plugins/conventions/)                 | `commit`: one-line Conventional Commits messages, with the type-to-release table and scopes read from the host repository                    |
+| Plugin                                  | Provides                                                                                                                  |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [`conventions`](./plugins/conventions/) | `commit`: one-line Conventional Commits messages, with the type-to-release table and scopes read from the host repository |
 
 ## Layout
 

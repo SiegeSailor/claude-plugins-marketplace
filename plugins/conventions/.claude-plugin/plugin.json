@@ -6,8 +6,8 @@
     "name": "Jin Yu (Ken) Zhang",
     "url": "https://github.com/SiegeSailor"
   },
-  "homepage": "https://github.com/SiegeSailor/Claude-Plugins",
-  "repository": "https://github.com/SiegeSailor/Claude-Plugins",
+  "homepage": "https://github.com/SiegeSailor/claude-plugins-marketplace",
+  "repository": "https://github.com/SiegeSailor/claude-plugins-marketplace",
   "license": "MIT",
   "keywords": ["git", "commit", "conventional-commits", "semantic-release"]
 }
