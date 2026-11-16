@@ -20,6 +20,19 @@
       "license": "MIT",
       "keywords": ["git", "commit", "conventional-commits", "semantic-release"],
       "category": "productivity"
+    },
+    {
+      "name": "eli5",
+      "description": "Explain any topic, code or error at a chosen audience's level.",
+      "author": { "name": "dreambigou" },
+      "homepage": "https://github.com/dreambigou/eli5",
+      "license": "MIT",
+      "strict": false,
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dreambigou/eli5.git",
+        "sha": "a766623b062331fdde53467001379b4ddf3acc2f"
+      }
     }
   ]
 }
